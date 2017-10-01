@@ -1,0 +1,10 @@
+/**
+*
+*  Linux system programming
+*  IPC
+**/
+
+Assignment : Write a program which creates two processess and that two processess can communicate with each other by using concept of shared memory.
+
+Description :
+will use IPC's type shared memory. 
