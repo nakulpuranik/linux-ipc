@@ -1,0 +1,11 @@
+/**
+*
+*  Linux system programming
+*  IPC
+**/
+
+Assignment : Write a program which performs interprocess communication using the concept of message queue.
+
+Description :
+IPC with the help of message passing.
+One prog will wait till the msg is received.
