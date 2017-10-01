@@ -1,0 +1,10 @@
+/**
+*
+*  Linux system programming
+*  IPC
+**/
+
+Assignment : Write a program which creates one child process , child process write something in unamed pipe and parent process read the data from that pipe.
+
+Description :
+Using pipe will create unamed pipe.
