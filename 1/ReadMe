@@ -1,0 +1,13 @@
+/**
+*
+*  Linux system programming
+*  IPC
+**/
+
+Assignment : Write a program which is used to create unnamed pipe. Parent process creates new child process and both the processess will
+communicate with each other.
+
+Description :
+With the help of pipe we will create the unamed pipe.
+We will pass some command line argument to parent via command line and with help of pipe child will access that data.
+Hence successfully communicating with the child via unamed pipe.
