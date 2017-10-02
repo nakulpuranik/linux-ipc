@@ -1,0 +1,10 @@
+/**
+*
+*  Linux system programming
+*  IPC
+**/
+
+Assignment : Write a program which creates two process as reader and writer and that processess should communicate with each other using FIFO.
+
+Description :
+IPC with the help of FIFO
